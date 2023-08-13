@@ -1,0 +1,67 @@
+Momo (Frosmoth) (F) @ Leftovers  
+Ability: Ice Scales  
+Level: 50  
+Shiny: Yes  
+Tera Type: Electric  
+EVs: 244 HP / 244 Def / 12 SpA / 4 SpD / 4 Spe  
+Bold Nature  
+IVs: 0 Atk  
+- Ice Beam  
+- Tera Blast  
+- Quiver Dance  
+- Protect  
+
+Jasmine (Grimmsnarl) @ Light Clay  
+Ability: Prankster  
+Level: 50  
+Tera Type: Steel  
+EVs: 244 HP / 212 Def / 52 SpD  
+Careful Nature  
+- Fake Out  
+- Light Screen  
+- Reflect  
+- Spirit Break  
+
+Kitty (Tauros-Paldea-Blaze) @ Safety Goggles  
+Ability: Intimidate  
+Level: 50  
+Tera Type: Water  
+EVs: 4 HP / 252 Atk / 252 Spe  
+- Raging Bull  
+- Close Combat  
+- Rock Slide  
+- Protect  
+
+Ruby (Gholdengo) @ Sitrus Berry  
+Ability: Good as Gold  
+Level: 50  
+Tera Type: Flying  
+EVs: 164 HP / 20 SpA / 68 SpD / 252 Spe  
+Timid Nature  
+IVs: 0 Atk  
+- Make It Rain  
+- Shadow Ball  
+- Nasty Plot  
+- Protect  
+
+Lucy (Palafin-Hero) (F) @ Mystic Water  
+Ability: Zero to Hero  
+Level: 50  
+Tera Type: Water  
+EVs: 204 HP / 252 Atk / 4 Def / 4 SpD / 44 Spe  
+Adamant Nature  
+- Jet Punch  
+- Wave Crash  
+- Haze  
+- Protect  
+
+Sumi (Garchomp) (F) @ Clear Amulet  
+Ability: Rough Skin  
+Level: 50  
+Tera Type: Fire  
+EVs: 4 HP / 248 Atk / 4 Def / 4 SpD / 244 Spe  
+Jolly Nature  
+- Stomping Tantrum  
+- Dragon Claw  
+- Swords Dance  
+- Protect  

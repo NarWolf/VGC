@@ -4,11 +4,11 @@
 Teams will be organized as follows:
 
 ```
-├── <Year>
-│   ├── <Ruleset>
-│   │   ├── <Competition>
-│   │   │   ├── <Competition>.txt
-│   │   │   ├── Notes.md
+└── <Year>
+    └──  <Ruleset>
+        └── <Competition>
+            ├── <Competition>.txt
+            └── Notes.md
 ```
 ### File Names
 
